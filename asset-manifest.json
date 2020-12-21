@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rage-coffe/static/css/main.beb063fe.chunk.css",
+    "main.js": "/rage-coffe/static/js/main.c56ab146.chunk.js",
+    "main.js.map": "/rage-coffe/static/js/main.c56ab146.chunk.js.map",
+    "runtime-main.js": "/rage-coffe/static/js/runtime-main.d3ba0948.js",
+    "runtime-main.js.map": "/rage-coffe/static/js/runtime-main.d3ba0948.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/rage-coffe/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.34c7118d.chunk.js": "/rage-coffe/static/js/2.34c7118d.chunk.js",
+    "static/js/2.34c7118d.chunk.js.map": "/rage-coffe/static/js/2.34c7118d.chunk.js.map",
+    "index.html": "/rage-coffe/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/rage-coffe/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.beb063fe.chunk.css.map": "/rage-coffe/static/css/main.beb063fe.chunk.css.map",
+    "static/js/2.34c7118d.chunk.js.LICENSE.txt": "/rage-coffe/static/js/2.34c7118d.chunk.js.LICENSE.txt",
+    "static/media/flavor.567d3173.mp4": "/rage-coffe/static/media/flavor.567d3173.mp4",
+    "static/media/ragecoffe.5e5bee20.mp4": "/rage-coffe/static/media/ragecoffe.5e5bee20.mp4",
+    "static/media/shopping-cart.891d6e79.svg": "/rage-coffe/static/media/shopping-cart.891d6e79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3ba0948.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.34c7118d.chunk.js",
+    "static/css/main.beb063fe.chunk.css",
+    "static/js/main.c56ab146.chunk.js"
+  ]
+}
